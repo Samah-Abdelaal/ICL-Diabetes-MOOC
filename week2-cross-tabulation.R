@@ -14,6 +14,9 @@ age_categorized <- case_when(age < 45 ~ "under 45",
                              age >= 65 & age < 75 ~ "65-74",
                              age >= 75 ~ "75 or over",
                              TRUE ~ NA)
+<<<<<<< HEAD
 
 # Error: must be a character vector, not a logical vector !!!
 
+=======
+>>>>>>> d3e15191481b124e5f9544d014ed7c5ee0686e28
