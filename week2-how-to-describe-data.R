@@ -12,7 +12,7 @@ dimnames(g)[[2]]
 
 # assigning variables
 
-chol <- g["chol"] # continuous
+chol <- g[, "chol"] # continuous
 
 gender <- as.factor(g[, "gender"]) # categorical
 dm <- as.factor(g[, "dm"]) # categorical
