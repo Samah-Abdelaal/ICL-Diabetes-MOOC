@@ -32,6 +32,7 @@ round(100*prop.table(age_by_gender, margin = 2))
 # pct of ALL PEOPLE who are male and aged 65-75 ia 5%
 
 # CORRECT ANSWER
+# https://www.coursera.org/learn/logistic-regression-r-public-health/supplement/Rwd4X/results-of-cross-tabulation
 
 ##### Here is the R code to do the cross-tabulations and the resulting output 
 

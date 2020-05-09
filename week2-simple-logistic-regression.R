@@ -1,4 +1,5 @@
 # https://www.coursera.org/learn/logistic-regression-r-public-health/supplement/YPw6w/practice-in-r-simple-logistic-regression
+# https://www.coursera.org/learn/logistic-regression-r-public-health/supplement/TkoUt/feedback-output-and-interpretation-from-simple-logistic-regression
 
 g <- read.csv(file = "Data/final-diabetes-data-for-R-_csv_-_2_.csv",
               header = T,
